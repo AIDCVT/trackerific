@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'httparty', '>= 0.12.0'
-  spec.add_dependency 'savon', '~> 2.3.0'
+  spec.add_dependency 'savon'
   spec.add_dependency 'activesupport'
   spec.add_dependency 'builder'
 
